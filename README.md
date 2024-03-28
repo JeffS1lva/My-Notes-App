@@ -4,7 +4,7 @@
 ![Captura de ecrã de 2024-02-07 22-19-06](https://github.com/JeffS1lva/My-Notes-App/assets/118827532/ad650fa1-35a1-4c8d-b085-00e6da3b7bfa)
 
 
-#### Uma ferramenta desenvolvida afim de Criar e Guardar Anotações. Esse App cria anotações em formato de texto e em Formato de áudio que digita o texto automaticamente, uma interface moderna e atrativa.
+- Desenvolvimento de uma aplicação front-end em ReactJS, aplicação dos conceitos de Propriedades, Estados e Componentes, tipagem com Typescript, tooling com Vite, interface responsiva com TailwindCSS, uso de APIs da Web como Web Storage e Web Speech.
 
 ## 🚀 Começando
 
